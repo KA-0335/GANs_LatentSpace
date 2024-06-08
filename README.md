@@ -25,6 +25,12 @@ Then all the images are out on display for the user to see them clearly. (the ma
 Finally, there is a new page where the results of interpolation, and feature addition are displayed.
 
 ------------------------------------------------------------------------------------------------------------------
+Here is the live demo of another image interpolation which shows how the features change from one point to another
+
+![gif](https://github.com/KA-0335/GANs_LatentSpace/blob/main/images/Picture1.gif)
+
+
+------------------------------------------------------------------------------------------------------------------
 
 The H5.py python files iterate through a large number of checkpoints and then the best quality h5 file is selected for the above interface. For a deeper understanding of the model and access, please contact me via my email: anandkushagra2898@gmail.com
 
