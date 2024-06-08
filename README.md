@@ -29,6 +29,7 @@ Here is the live demo of another image interpolation which shows how the feature
 
 ![gif](https://github.com/KA-0335/GANs_LatentSpace/blob/main/images/Picture1.gif)
 
+![p](https://github.com/KA-0335/GANs_LatentSpace/assets/172090407/e1872484-6d98-4fe5-88c6-9dfeff8dc096)
 
 ------------------------------------------------------------------------------------------------------------------
 
