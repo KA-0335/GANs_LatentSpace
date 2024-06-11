@@ -27,7 +27,7 @@ Finally, there is a new page where the results of interpolation, and feature add
 ------------------------------------------------------------------------------------------------------------------
 Here is the live demo of another image interpolation which shows how the features change from one point to another
 
-![gif](https://github.com/KA-0335/GANs_LatentSpace/blob/main/images/Picture1.gif)
+![gif](https://github.com/KA-0335/GANs_LatentSpace/blob/main/images/image29.gif)
 
 
 ------------------------------------------------------------------------------------------------------------------
